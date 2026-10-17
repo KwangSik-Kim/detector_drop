@@ -1,0 +1,1 @@
+v6_40k_448_edgetype_strict
